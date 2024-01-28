@@ -5,7 +5,7 @@
 <br />
 - 🌱 I’m currently learning backend services like MongoDB, Prisma and Supabase
 <br />
-- 💬 Ask me about React, NextJS and gsap
+- 💬 Ask me about React, NextJS, GSAP and Framer Motion.
 <br />
 - 📫 How to reach me kavan1357@gmail.com
 <br />
