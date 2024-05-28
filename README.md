@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kavan Thakkar</h1>
 <h3 align="center">I'm a Frontend developer and a UI/UX designer, from India.</h3>
-<br />
+<!-- <br />
 - 🔭 I’m currently working on Freelance Projects
-<br />
+<br /> -->
 - 🌱 I’m currently learning backend services like MongoDB, Prisma and Supabase
 <br />
 - 💬 Ask me about React, NextJS, GSAP and Framer Motion.
