@@ -130,7 +130,7 @@
 
 ###
 
-<h2 align="left">My Activity</h2>
+<!---<h2 align="left">My Activity</h2>
 
 ###
 
@@ -141,4 +141,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ka1Thakkar&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+###-->
