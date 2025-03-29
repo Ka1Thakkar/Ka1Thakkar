@@ -1,6 +1,6 @@
 ## Hi, I'm Ka1Thakkar
 
-I am a Full-Stack Developer and an Electronics undergraduate from BITS Pilani. I enjoy working on diverse projects, focusing on creating practical solutions. Some of my key projects include:
+I am a Software Developer and an Electronics undergraduate from BITS Pilani. I enjoy working on diverse projects, focusing on creating practical solutions. Some of my key projects include:
 
 - **[ElectionSeva](https://github.com/Ka1Thakkar/ElectionSeva):**  A comprehensive platform designed to streamline election processes for both the Election Commission and voters.
 
