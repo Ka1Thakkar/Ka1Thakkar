@@ -10,7 +10,7 @@ I am a Software Developer and an Electronics undergraduate from BITS Pilani. I e
 
 - **[Machine_Failure_Prediction](https://github.com/Ka1Thakkar/Machine_Failure_Prediction):**  A data-driven project focused on predicting machine failures using machine learning techniques. This project demonstrates expertise in data analysis, model training, and the application of predictive analytics to real-world scenarios.
 
-- **[bppc-mess-menu](https://github.com/Ka1Thakkar/bppc-mess-menu):**  A website designed to display the weekly mess menu for BITS Pilani. This project simplifies the process of checking daily meals, making it easier for students to plan their meals on campus.
+- **[bppc-mess-menu](https://www.ssms-pilani.in/):**  A website designed to display the weekly mess menu for BITS Pilani. This project simplifies the process of checking daily meals, making it easier for students to plan their meals on campus.
 
 Always learning, building, and open to collaboration.
 
